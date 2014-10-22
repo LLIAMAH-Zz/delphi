@@ -58,13 +58,4 @@ object newlkrod: Tnewlkrod
     TabOrder = 2
     Text = 'Edit3'
   end
-  object Memo1: TMemo
-    Left = 32
-    Top = 21
-    Width = 185
-    Height = 89
-    Lines.Strings = (
-      'Memo1')
-    TabOrder = 3
-  end
 end
